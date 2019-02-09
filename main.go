@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/yabslabs/cobra/cmd"
+import "github.com/yabslabs/yabsctl/cmd"
 
 func main() {
 	cmd.Execute()
